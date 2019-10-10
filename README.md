@@ -3,6 +3,12 @@ A Python based Augmented Reality library
 
 Based on the initial repo by [Juan Gallostra](https://github.com/juangallostra/augmented-reality).
 
+## Main Requirements
+
+* Python 3.x
+* OpenCV 4.x
+* numpy
+
 ## Usage
 
 * Place the image of the surface to be tracked inside the `reference` folder.
