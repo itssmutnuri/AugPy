@@ -34,7 +34,7 @@ printed to your terminal, the most likely cause is that your OpenCV installation
 
 ## Explanation
 
-See this excellent blog entries for an in-depth explanation of the logic behind the code:
+See these excellent blog entries for an in-depth explanation of the logic behind the code:
 
 * [Part 1](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
 * [Part 2](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/)
