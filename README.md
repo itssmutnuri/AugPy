@@ -3,6 +3,12 @@ A Python based Augmented Reality library
 
 Based on the initial repo by [Juan Gallostra](https://github.com/juangallostra/augmented-reality).
 
+## Talk at PyCon India 2019
+
+The below link is for an introductory talk I've given on this at PyCon India, 2019. 
+
+[Link to slides](https://docs.google.com/presentation/d/1nwUh1XZpSFy3vhp3yi5-KoIfkFSB_RJEj-2ffcVXDMk)
+
 ## Main Requirements
 
 * Python 3.x
