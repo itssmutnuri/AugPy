@@ -9,6 +9,8 @@ The below link is for an introductory talk I've given on this at PyCon India, 20
 
 [Link to slides](https://docs.google.com/presentation/d/1nwUh1XZpSFy3vhp3yi5-KoIfkFSB_RJEj-2ffcVXDMk)
 
+[Video](https://www.youtube.com/watch?v=pLRk3ya38Y8)
+
 ## Main Requirements
 
 * Python 3.x
